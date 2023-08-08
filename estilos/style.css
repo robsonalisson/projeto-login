@@ -9,11 +9,11 @@
 html, body{
     width: 100vw;
     height: 100vh;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.116);
 }
 main{
     width: 100vw;
-    height: 100vh;
+   height: 100vh;
     position: relative;
 }
 
@@ -44,7 +44,7 @@ section #foto {
 
 }
  section .formulario{
-    background-color: white;
+   background-color: white;
     display: block;
    
 
@@ -61,66 +61,6 @@ section #foto {
    padding: 10px 10px 0px 10px;
    
 }
-form{
-   
-    font-size:28px;
-  text-align: center;
-  background-color: white;
-  
-   
-}
-form .caixa input{
-    width: 180px;
-    height: 7px;
-   
-    border-radius: 10px;
-  padding:13px;
-  border-top: 7px solid rgb(199, 50, 50) ;
-  border-right: 4px solid  rgb(199, 50, 50) ;
-  border-bottom: 2px solid  rgb(199, 50, 50);
-  border-left: 4px solid  rgb(199, 50, 50);
-  
-    
-}
-form .caixa{
-   height: 38px;
-    position: relative;
-   
 
-    
 
-   
-}
- form .caixa .icon{
-    position: absolute;
-    top: 50%;
-    left: 9px;
-    transform: translateY(-50%);
-    width: 30px;
-    height: 34px;
-    background-image: url(../imagens/vpn_key_FILL0_wght400_GRAD0_opsz48.png);
-    background-size: cover;
-    padding-right: 5px;
-    border: 3px solid  rgb(199, 50, 50);
-    border-radius: 5px;
-    background-color:    rgb(199, 50, 50);
-    
 
-}
-.button input{
-    width: 230px;
-    padding: 15px;
-    background-color:#94CFCD ;
-    color: white;
-    border-radius: 5px;
-    border:1px solid  #94CFCD;
-    margin: 5px;
-}
-.button2 input{
-    width: 230px;
-    padding: 15px;
-    background-color: white;
-    border-radius: 5px;
-    border:1px solid #94CFCD;
-    color: #315857;
-}

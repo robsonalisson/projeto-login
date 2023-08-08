@@ -26,7 +26,7 @@
     section{
         width:950px;
         height: 320px;
-        background-color: aqua;
+       background-color: white;
     
     }
     section #foto{
@@ -37,7 +37,7 @@
     section .formulario{
         float: right;
         width: 50%;
-        height: 320px;
+        
     }
     
 }
