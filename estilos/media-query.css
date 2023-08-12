@@ -1,43 +1,11 @@
 @charset "UTF-8";
 @media screen and (min-width:768px) and (max-width:992px){
-    body{
-        background-image: linear-gradient(to top,red,black);
-    }
-    section{
-        width: 80vw;
-        height: 40vh;
-        background-color: aqua;
-    }
-    section #foto{
-        float: left;
-        width: 30%;
-        height:100%;
-    }
-    section .formulario{
-        float: right;
-        width: 70%;
-    }
+
+
     
 }
 @media  screen and (min-width:992px) {
-    body{
-        background-image: linear-gradient(to top,red,black);
-    }
-    section{
-        width:950px;
-        height: 320px;
-       background-color: white;
-    
-    }
-    section #foto{
-        float: left;
-        width: 50%;
-        height: 100%;
-    }
-    section .formulario{
-        float: right;
-        width: 50%;
-        
-    }
+
+  
     
 }
