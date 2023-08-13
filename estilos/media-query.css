@@ -4,10 +4,14 @@
         background-image: linear-gradient(to bottom,#3d010f,#720020d2,#4d030b8a);
     }
     section#login{
-        width: 70vw;
+        width: 80vw;
         height: 300px;
        box-shadow:0px 0px 10px rgba(0, 0, 0, 0.438);
        
+    }
+    form div.caixa input{
+ 
+        width: 87%;
     }
     section div#imagem{
    
@@ -22,6 +26,9 @@
         width: 60%;
         height: 100%;
         
+    }
+    div#formulario p{
+        font-size:14px ;
     }
 
 
@@ -49,6 +56,16 @@ section div#formulario{
     width: 50%;
     height: 100%;
     
+}
+form div.caixa input{
+ 
+    width: 89.6%;
+}
+div#formulario h1{
+    font-size: 25px;
+}
+div#formulario p{
+    font-size:15px ;
 }
   
     
